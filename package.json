@@ -1,0 +1,15 @@
+{
+    "name": "etherscan-task",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "eslint": "eslint .",
+        "cypress:open": "cypress open",
+        "test:e2e": "cypress run"
+    },
+    "devDependencies": {
+        "cypress": "^10.1.0",
+        "eslint": "^8.18.0",
+        "eslint-plugin-cypress": "^2.12.1"
+    }
+}
