@@ -2,7 +2,7 @@
 
 To setup project run ```npm install```
 
-For API test to pass, get a key [here](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics) and create a .env file ```apiKey=YOUR_KEY_HERE```
+For API tests to pass, get a key [here](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics) and add it to the ```.env``` file.
 
 Can run tests in headless browser using ```npm run test:e2e``` or using Cypress client ```npm run cypress:open```
 
